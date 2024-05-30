@@ -36,7 +36,7 @@
     "pino": "^9.1.0",
     "play-dl": "^1.9.7",
     "reflect-metadata": "^0.2.2",
-    "youtubei": "^1.4.1",
+    "youtubei": "^1.4.2",
     "ytdl-core": "^4.11.5"
   }
 }
